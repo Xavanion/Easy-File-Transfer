@@ -5,8 +5,22 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:EasyFileTransferApp"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="EZ File Transfer" Height="450" Width="800">
+    <Grid Background="#282828">
+        <Grid.ColumnDefinitions>
+            <!-- Sidebar width -->
+            <ColumnDefinition Width="200"/>
 
+            <!-- Main content -->
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" Background="#151515">
+            <TextBlock Text="EZ Transfer" FontSize="36" FontWeight="Bold" TextAlignment="Center" Margin="0,10,0,20" Foreground="White"/>
+            <Button Content="Home" FontSize="24" Background="#151515" Foreground="White" BorderThickness="0"/>
+            <Button Content="Discovery" FontSize="24" Background="#151515" Foreground="White" BorderThickness="0"/>
+            <Button Content="Settings" FontSize="24" Background="#151515" Foreground="White" BorderThickness="0"/>
+        </StackPanel>
     </Grid>
+
 </Window>
