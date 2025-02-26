@@ -1,2 +1,2 @@
-# Easy-File-Transfer
+# NetShare
 A C# based application to easily transfer files between users.
