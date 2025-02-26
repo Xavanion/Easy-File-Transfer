@@ -8,4 +8,12 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Assets\Upload.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\Upload.png" />
+  </ItemGroup>
+
 </Project>

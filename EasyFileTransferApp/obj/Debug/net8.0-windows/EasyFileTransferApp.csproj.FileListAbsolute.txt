@@ -19,3 +19,14 @@ G:\Projects\File Transfer\Easy-File-Transfer\EasyFileTransferApp\obj\Debug\net8.
 G:\Projects\File Transfer\Easy-File-Transfer\EasyFileTransferApp\obj\Debug\net8.0-windows\EasyFileTransferApp.pdb
 G:\Projects\File Transfer\Easy-File-Transfer\EasyFileTransferApp\obj\Debug\net8.0-windows\EasyFileTransferApp.genruntimeconfig.cache
 G:\Projects\File Transfer\Easy-File-Transfer\EasyFileTransferApp\obj\Debug\net8.0-windows\ref\EasyFileTransferApp.dll
+G:\Projects\File Transfer\Easy-File-Transfer\EasyFileTransferApp\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+G:\Projects\File Transfer\Easy-File-Transfer\EasyFileTransferApp\obj\Debug\net8.0-windows\View\UserControls\SideBar.g.cs
+G:\Projects\File Transfer\Easy-File-Transfer\EasyFileTransferApp\obj\Debug\net8.0-windows\View\UserControls\SideBar.baml
+G:\Projects\File Transfer\Easy-File-Transfer\EasyFileTransferApp\obj\Debug\net8.0-windows\View\UserControls\TextInputBox.g.cs
+G:\Projects\File Transfer\Easy-File-Transfer\EasyFileTransferApp\obj\Debug\net8.0-windows\View\UserControls\TextInputBox.baml
+G:\Projects\File Transfer\Easy-File-Transfer\EasyFileTransferApp\obj\Debug\net8.0-windows\View\UserControls\DropAddFile.g.cs
+G:\Projects\File Transfer\Easy-File-Transfer\EasyFileTransferApp\obj\Debug\net8.0-windows\View\UserControls\DropAddFile.baml
+G:\Projects\File Transfer\Easy-File-Transfer\EasyFileTransferApp\obj\Debug\net8.0-windows\View\Pages\HomePage.g.cs
+G:\Projects\File Transfer\Easy-File-Transfer\EasyFileTransferApp\obj\Debug\net8.0-windows\View\Pages\SharePage.g.cs
+G:\Projects\File Transfer\Easy-File-Transfer\EasyFileTransferApp\obj\Debug\net8.0-windows\View\Pages\HomePage.baml
+G:\Projects\File Transfer\Easy-File-Transfer\EasyFileTransferApp\obj\Debug\net8.0-windows\View\Pages\SharePage.baml
