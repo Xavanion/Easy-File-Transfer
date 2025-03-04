@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR
 G:\Projects\File Transfer\Easy-File-Transfer\EasyFileTransferApp\App.xaml
 6-107245598
 
-11-233742705
+13-363419556
 1981839832580
 MainWindow.xaml;View\Pages\HomePage.xaml;View\Pages\SharePage.xaml;View\UserControls\DropAddFile.xaml;View\UserControls\SideBar.xaml;View\UserControls\TextInputBox.xaml;
 
-True
+False
 

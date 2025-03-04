@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Projects\\File Transfer\\Easy-File-Transfer\\EasyFileTransferApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D552079-EA27-8A4C-0BAD-676F09E41AB4}|EasyFileTransferApp.csproj|g:\\projects\\file transfer\\easy-file-transfer\\easyfiletransferapp\\view\\pages\\sharepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D552079-EA27-8A4C-0BAD-676F09E41AB4}|EasyFileTransferApp.csproj|solutionrelative:view\\pages\\sharepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D552079-EA27-8A4C-0BAD-676F09E41AB4}|EasyFileTransferApp.csproj|g:\\projects\\file transfer\\easy-file-transfer\\easyfiletransferapp\\view\\usercontrols\\textinputbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D552079-EA27-8A4C-0BAD-676F09E41AB4}|EasyFileTransferApp.csproj|solutionrelative:view\\usercontrols\\textinputbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D552079-EA27-8A4C-0BAD-676F09E41AB4}|EasyFileTransferApp.csproj|g:\\projects\\file transfer\\easy-file-transfer\\easyfiletransferapp\\model\\networkdiscovery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D552079-EA27-8A4C-0BAD-676F09E41AB4}|EasyFileTransferApp.csproj|solutionrelative:model\\networkdiscovery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D552079-EA27-8A4C-0BAD-676F09E41AB4}|EasyFileTransferApp.csproj|g:\\projects\\file transfer\\easy-file-transfer\\easyfiletransferapp\\model\\filetransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D552079-EA27-8A4C-0BAD-676F09E41AB4}|EasyFileTransferApp.csproj|solutionrelative:model\\filetransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D552079-EA27-8A4C-0BAD-676F09E41AB4}|EasyFileTransferApp.csproj|g:\\projects\\file transfer\\easy-file-transfer\\easyfiletransferapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D552079-EA27-8A4C-0BAD-676F09E41AB4}|EasyFileTransferApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D552079-EA27-8A4C-0BAD-676F09E41AB4}|EasyFileTransferApp.csproj|g:\\projects\\file transfer\\easy-file-transfer\\easyfiletransferapp\\view\\pages\\sharepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D552079-EA27-8A4C-0BAD-676F09E41AB4}|EasyFileTransferApp.csproj|solutionrelative:view\\pages\\sharepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\Projects\\File Transfer\\Easy-File-Transfer\\EasyFileTransferApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "G:\\Projects\\File Transfer\\Easy-File-Transfer\\EasyFileTransferApp\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-24T04:45:39.778Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileTransfer.cs",
+              "DocumentMoniker": "G:\\Projects\\File Transfer\\Easy-File-Transfer\\EasyFileTransferApp\\Model\\FileTransfer.cs",
+              "RelativeDocumentMoniker": "Model\\FileTransfer.cs",
+              "ToolTip": "G:\\Projects\\File Transfer\\Easy-File-Transfer\\EasyFileTransferApp\\Model\\FileTransfer.cs",
+              "RelativeToolTip": "Model\\FileTransfer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T02:33:10.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NetworkDiscovery.cs",
+              "DocumentMoniker": "G:\\Projects\\File Transfer\\Easy-File-Transfer\\EasyFileTransferApp\\Model\\NetworkDiscovery.cs",
+              "RelativeDocumentMoniker": "Model\\NetworkDiscovery.cs",
+              "ToolTip": "G:\\Projects\\File Transfer\\Easy-File-Transfer\\EasyFileTransferApp\\Model\\NetworkDiscovery.cs",
+              "RelativeToolTip": "Model\\NetworkDiscovery.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T02:32:52.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextInputBox.xaml.cs",
+              "DocumentMoniker": "G:\\Projects\\File Transfer\\Easy-File-Transfer\\EasyFileTransferApp\\View\\UserControls\\TextInputBox.xaml.cs",
+              "RelativeDocumentMoniker": "View\\UserControls\\TextInputBox.xaml.cs",
+              "ToolTip": "G:\\Projects\\File Transfer\\Easy-File-Transfer\\EasyFileTransferApp\\View\\UserControls\\TextInputBox.xaml.cs",
+              "RelativeToolTip": "View\\UserControls\\TextInputBox.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:59:39.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SharePage.xaml",
+              "DocumentMoniker": "G:\\Projects\\File Transfer\\Easy-File-Transfer\\EasyFileTransferApp\\View\\Pages\\SharePage.xaml",
+              "RelativeDocumentMoniker": "View\\Pages\\SharePage.xaml",
+              "ToolTip": "G:\\Projects\\File Transfer\\Easy-File-Transfer\\EasyFileTransferApp\\View\\Pages\\SharePage.xaml",
+              "RelativeToolTip": "View\\Pages\\SharePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-28T08:00:21.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SharePage.xaml.cs",
+              "DocumentMoniker": "G:\\Projects\\File Transfer\\Easy-File-Transfer\\EasyFileTransferApp\\View\\Pages\\SharePage.xaml.cs",
+              "RelativeDocumentMoniker": "View\\Pages\\SharePage.xaml.cs",
+              "ToolTip": "G:\\Projects\\File Transfer\\Easy-File-Transfer\\EasyFileTransferApp\\View\\Pages\\SharePage.xaml.cs",
+              "RelativeToolTip": "View\\Pages\\SharePage.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:44:04.044Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
